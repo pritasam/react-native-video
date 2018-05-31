@@ -14,14 +14,12 @@ Requires react-native >= 0.40.0, for RN support of 0.19.0 - 0.39.0 please use a 
 
 Using npm:
 
-```shell
-npm install --save react-native-video
-```
-
-or using yarn:
+Add the following line into your devDependencies in package.json
 
 ```shell
-yarn add react-native-video
+    "react-native-video": "git://github.com/pritasam/react-native-video.git"
+      npm install
+
 ```
 
 <details>
